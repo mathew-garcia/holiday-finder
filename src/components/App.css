@@ -1,0 +1,43 @@
+.header {
+  background-color: #02283e;
+  color: white;
+  text-align: center;
+  padding: 3px;
+  margin-bottom: 10px;
+}
+
+.header--text {
+  margin: 0px;
+}
+
+.footer {
+  background-color: #02283e;
+  color: white;
+  text-align: center;
+  padding: 3px;
+  margin-top: 10px;
+}
+
+.footer--text {
+  margin: 0px;
+}
+
+.error--message {
+  text-align: center;
+  color: red;
+  margin-bottom: 5px;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form--option {
+  margin-top: 5px;
+}
+
+.holiday-list {
+  text-align: center;
+}
